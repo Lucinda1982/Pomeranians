@@ -11,3 +11,12 @@ body{
     opacity: 0.8;
   }
 strong {font-size: x-large; color:rgb(246, 10, 25);}
+iframe{
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border: 2px solid black;
+  padding: 10px
+}
+a href{color: red}
