@@ -6,6 +6,7 @@ h1{
     text-align: center;
     color:olive;
     font-size: 100px;
+    text-shadow: 2px 2px yellow;
 }
 
 section {display: flex; justify-content: space-between;}
@@ -14,7 +15,9 @@ img {width: 200px;}
 
 button{color:olive;}
 
-div{color:olive}
+div{color:olive; font-weight: bold;}
+
+strong{font-size: x-large;}
 
 iframe{
     margin-top: 20px;
