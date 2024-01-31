@@ -2,17 +2,48 @@ body{
     background-color:bisque;
 }
 
-h1 {
+marquee {
     text-align: center;
     font-size: 100px;
     color: saddlebrown;
 }
 
-img {width: 200px;}
+img {width: 200px;
+    border: 2px solid black}
 
 section {display: flex; justify-content: space-between;}
 
 h3{
     color:saddlebrown;
     text-align: center;
+}
+
+strong {font-size: xx-large;}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:saddlebrown;
+    font-family: "chalkduster" arial;
+}
+dl, ol, ul {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
 }
