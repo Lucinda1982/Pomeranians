@@ -5,7 +5,7 @@ h1{text-shadow: 2px 2px rgb(255, 187, 127);}
 button{color: rgb(219, 22, 22);}
 div{color: rgb(255, 187, 127); font-weight: bold;}
 section {display: flex; justify-content: space-between;}
-img {width: 200px;}
+img {width: 200px; border: 2px solid black;}
 body{
     background-color: #509c7a;
     opacity: 0.8;

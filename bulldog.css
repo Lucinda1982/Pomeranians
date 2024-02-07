@@ -1,21 +1,21 @@
 body{
-    background-color:yellow;
+    background-color:goldenrod ;
 }
 
 h1{
     text-align: center;
-    color:olive;
+    color:red;
     font-size: 100px;
-    text-shadow: 2px 2px yellow;
+    text-shadow: 2px 2px black;
 }
 
 section {display: flex; justify-content: space-between;}
 
-img {width: 200px;}
+img {width: 200px; border: 2px solid black;}
 
-button{color:olive;}
+button{color:red;}
 
-div{color:olive; font-weight: bold;}
+div{color:red; font-weight: bold;}
 
 strong{font-size: x-large;}
 
