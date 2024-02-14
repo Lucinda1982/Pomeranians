@@ -30,3 +30,10 @@ if (userInput) {
     alert("No name entered. Welcome anyway!");
 }
 
+//function welcomeMessage {
+  // Check if the "hasPrompted" flag is set in session storage
+  //var hasPrompted = sessionStorage.getItem("hasPrompted")};
+
+      // Set the "hasPrompted" flag in session storage
+  //sessionStorage.setItem("hasPrompted", true);
+    
